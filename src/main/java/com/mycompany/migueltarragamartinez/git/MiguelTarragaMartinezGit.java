@@ -11,6 +11,6 @@ package com.mycompany.migueltarragamartinez.git;
 public class MiguelTarragaMartinezGit {
 
     public static void main(String[] args) {
-        System.out.println("Practica4_2_Entornos");
+        System.out.println("Practica4_2 Entornos de Desarrollo");
     }
 }
